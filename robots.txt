@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ungoniot.github.io/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/app/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/assets/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/css/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/data/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/includes/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/item/sitemap.ungoniot.gz
+Sitemap: https://ungoniot.github.io/src/sitemap.ungoniot.gz
